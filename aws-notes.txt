@@ -1,3 +1,4 @@
 Hello AWS, I am ready.
 Linux is the foundation of cloud.
 I am preparing for AWS re.STart Aug 2026!
+AWS EC2 is a virtual server in the cloud.
