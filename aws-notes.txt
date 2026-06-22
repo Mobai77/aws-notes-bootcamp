@@ -1,2 +1,3 @@
 Main universe thinks EC2 is the king of computing,but Parallel universe thinks S3 is better than EC2.
 AWS IAM manages access and security for cloud resources.
+AWS VPC lets you launch AWS resources into a virtual network you've defined.
